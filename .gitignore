@@ -2,7 +2,8 @@
 
 *.log
 folder/
-!*.txt
+*.txt
+!file.txt
 
 
 
