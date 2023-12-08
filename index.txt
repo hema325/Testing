@@ -11,5 +11,6 @@ merge branch
 anything
 some additions
 
-conflict
+extra conflict
+
 
