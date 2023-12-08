@@ -11,3 +11,5 @@ merge branch
 anything
 some additions
 
+conflict
+
